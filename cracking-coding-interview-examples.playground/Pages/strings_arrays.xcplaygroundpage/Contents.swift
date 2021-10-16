@@ -237,5 +237,6 @@ func convertToZero(_ matrix: inout [[Int]]) {
 
 func StringRotation(s1: String, s2: String) -> Bool {
    // return iSubString("\(s2)\(s2)")
+    return true
 }
 
