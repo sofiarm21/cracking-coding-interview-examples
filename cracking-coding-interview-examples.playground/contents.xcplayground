@@ -3,5 +3,6 @@
     <pages>
         <page name='strings_arrays'/>
         <page name='linked-lists'/>
+        <page name='stacks-queues'/>
     </pages>
 </playground>
